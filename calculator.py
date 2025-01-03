@@ -20,7 +20,5 @@ class Calculator:
         except:
             traceback.print_exc()
 
-
-
     def print_last_res(self):
         print(self.last_res)
